@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">theanh.com</string>
+    <string name="time">12:00 AM</string>
+    <string name="note">Hello everybody</string>
+    <string name="inb">Inbox</string>
+</resources>
